@@ -1,0 +1,8 @@
+#If there is a file that you dont want to be tracked by git
+
+*.txt
+*.java
+
+#can mention exact file name or Directory name
+
+
